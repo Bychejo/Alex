@@ -1,0 +1,492 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="La1.es" tvg-name="[ES] La 1 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/la1hd.png" group-title="|ES| TDT España",[ES] La 1 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/95
+#EXTINF:-1 tvg-id="La1.es" tvg-name="[ES] La 1 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/la1hd.png" group-title="|ES| TDT España",[ES] La 1 HD 720P
+http://213.133.99.154:8080/tote123/tote123/34031
+#EXTINF:-1 tvg-id="La1.es" tvg-name="[ES] La 1 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/la1.png" group-title="|ES| TDT España",[ES] La 1 SD
+http://213.133.99.154:8080/tote123/tote123/272549
+#EXTINF:-1 tvg-id="La2.es" tvg-name="[ES] LA 2 HD 1080P " tvg-logo="http://panel.cipri.me/picons/Movistar/la2.png" group-title="|ES| TDT España",[ES] LA 2 HD 1080P 
+http://213.133.99.154:8080/tote123/tote123/300382
+#EXTINF:-1 tvg-id="La2.es" tvg-name="[ES] LA 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/la2.png" group-title="|ES| TDT España",[ES] LA 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/300383
+#EXTINF:-1 tvg-id="La2.es" tvg-name="[ES] La 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/la2.png" group-title="|ES| TDT España",[ES] La 2 SD
+http://213.133.99.154:8080/tote123/tote123/96
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="[ES] Antena 3 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/antena3hd.png" group-title="|ES| TDT España",[ES] Antena 3 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/43
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="[ES] Antena 3 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/antena3hd.png" group-title="|ES| TDT España",[ES] Antena 3 HD 720P
+http://213.133.99.154:8080/tote123/tote123/150357
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="[ES] Antena 3 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/antena3.png" group-title="|ES| TDT España",[ES] Antena 3 SD
+http://213.133.99.154:8080/tote123/tote123/272550
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="[ES] Cuatro HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/cuatrohd.png" group-title="|ES| TDT España",[ES] Cuatro HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/72
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="[ES] Cuatro HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/cuatrohd.png" group-title="|ES| TDT España",[ES] Cuatro HD 720P
+http://213.133.99.154:8080/tote123/tote123/34028
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="[ES] Cuatro SD" tvg-logo="http://panel.cipri.me/picons/Movistar/cuatro.png" group-title="|ES| TDT España",[ES] Cuatro SD
+http://213.133.99.154:8080/tote123/tote123/272551
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="[ES] Telecinco HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/telecincohd.png" group-title="|ES| TDT España",[ES] Telecinco HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/182
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="[ES] Telecinco HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/telecincohd.png" group-title="|ES| TDT España",[ES] Telecinco HD 720P
+http://213.133.99.154:8080/tote123/tote123/19722
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="[ES] Telecinco SD" tvg-logo="http://panel.cipri.me/picons/Movistar/telecinco.png" group-title="|ES| TDT España",[ES] Telecinco SD
+http://213.133.99.154:8080/tote123/tote123/272552
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="[ES] La Sexta HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/lasextahd.png" group-title="|ES| TDT España",[ES] La Sexta HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/98
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="[ES] La Sexta HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/lasextahd.png" group-title="|ES| TDT España",[ES] La Sexta HD 720P
+http://213.133.99.154:8080/tote123/tote123/19723
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="[ES] La Sexta SD" tvg-logo="http://panel.cipri.me/picons/Movistar/lasexta.png" group-title="|ES| TDT España",[ES] La Sexta SD
+http://213.133.99.154:8080/tote123/tote123/272553
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="[ES] M+ Acción HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/accion.png" group-title="|ES| Cine & Series",[ES] M+ Acción HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/300912
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="[ES] M+ Acción HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/accion.png" group-title="|ES| Cine & Series",[ES] M+ Acción HD 720P
+http://213.133.99.154:8080/tote123/tote123/300913
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="[ES] M+ Acción SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/accion.png" group-title="|ES| Cine & Series",[ES] M+ Acción SD
+http://213.133.99.154:8080/tote123/tote123/300914
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="[ES] M+ Drama HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/drama.png" group-title="|ES| Cine & Series",[ES] M+ Drama HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/121
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="[ES] M+ Drama HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/drama.png" group-title="|ES| Cine & Series",[ES] M+ Drama HD 720P
+http://213.133.99.154:8080/tote123/tote123/150360
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="[ES] M+ Drama SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/drama.png" group-title="|ES| Cine & Series",[ES] M+ Drama SD
+http://213.133.99.154:8080/tote123/tote123/272584
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="[ES] M+ Comedia HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/comedia.png" group-title="|ES| Cine & Series",[ES] M+ Comedia HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/142
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="[ES] M+ Comedia HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/comedia.png" group-title="|ES| Cine & Series",[ES] M+ Comedia HD 720P
+http://213.133.99.154:8080/tote123/tote123/150361
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="[ES] M+ Comedia SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/comedia.png" group-title="|ES| Cine & Series",[ES] M+ Comedia SD
+http://213.133.99.154:8080/tote123/tote123/272585
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="[ES] M+ Estrenos HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/145
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="[ES] M+ Estrenos HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos HD 720P
+http://213.133.99.154:8080/tote123/tote123/150438
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="[ES] M+ Estrenos SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos SD
+http://213.133.99.154:8080/tote123/tote123/272586
+#EXTINF:-1 tvg-id="MovistarEstrenos2.es" tvg-name="[ES] M+ Estrenos 2 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos2.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos 2 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/164042
+#EXTINF:-1 tvg-id="MovistarEstrenos2.es" tvg-name="[ES] M+ Estrenos 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos2.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/168983
+#EXTINF:-1 tvg-id="MovistarEstrenos2.es" tvg-name="[ES] M+ Estrenos 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/estrenos2.png" group-title="|ES| Cine & Series",[ES] M+ Estrenos 2 SD
+http://213.133.99.154:8080/tote123/tote123/272587
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="[ES] Hollywood HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/canalhollywoodhd.png" group-title="|ES| Cine & Series",[ES] Hollywood HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/92
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="[ES] Hollywood HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/canalhollywoodhd.png" group-title="|ES| Cine & Series",[ES] Hollywood HD 720P
+http://213.133.99.154:8080/tote123/tote123/150741
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="[ES] Hollywood SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/canalhollywood.png" group-title="|ES| Cine & Series",[ES] Hollywood SD
+http://213.133.99.154:8080/tote123/tote123/272557
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="[ES] SyFy HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar2022/syfyhd.png" group-title="|ES| Cine & Series",[ES] SyFy HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/178
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="[ES] SYFY HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/syfyhd.png" group-title="|ES| Cine & Series",[ES] SYFY HD 720P
+http://213.133.99.154:8080/tote123/tote123/150742
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="[ES] SyFy SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/sysy.png" group-title="|ES| Cine & Series",[ES] SyFy SD
+http://213.133.99.154:8080/tote123/tote123/272588
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="[ES] TCM HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/tcmhd.png" group-title="|ES| Cine & Series",[ES] TCM HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/180
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="[ES] TCM HD 720P" tvg-logo="http://casaprotv.xyz:8080/images/f93862b2aa63a7d8617f9960962fa132.png" group-title="|ES| Cine & Series",[ES] TCM HD 720P
+http://213.133.99.154:8080/tote123/tote123/150743
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="[ES] TCM SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/tcm.png" group-title="|ES| Cine & Series",[ES] TCM SD
+http://213.133.99.154:8080/tote123/tote123/272589
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="[ES] TNT HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/tnthd.png" group-title="|ES| Cine & Series",[ES] TNT HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/186
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="[ES] TNT HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/42fecba416ee9c82c3af60dabdc4ff42.png" group-title="|ES| Cine & Series",[ES] TNT HD 720P
+http://213.133.99.154:8080/tote123/tote123/150411
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="[ES] TNT SD" tvg-logo="http://cazadortv.xyz:8080/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="|ES| Cine & Series",[ES] TNT SD
+http://213.133.99.154:8080/tote123/tote123/272590
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="[ES] #0 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/cero.png" group-title="|ES| Cine & Series",[ES] #0 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/33
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="[ES] #0 HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| Cine & Series",[ES] #0 HD 720P
+http://213.133.99.154:8080/tote123/tote123/150358
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="[ES] #0 SD" tvg-logo="http://cazadortv.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| Cine & Series",[ES] #0 SD
+http://213.133.99.154:8080/tote123/tote123/272554
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="[ES] AXN HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/axnhd.png" group-title="|ES| Cine & Series",[ES] AXN HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/46
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="[ES] AXN HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/2f1e4c2a90f7b62293b31a99dfb4cf52.png" group-title="|ES| Cine & Series",[ES] AXN HD 720P
+http://213.133.99.154:8080/tote123/tote123/150473
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="[ES] AXN SD" tvg-logo="http://cazadortv.xyz:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="|ES| Cine & Series",[ES] AXN SD
+http://213.133.99.154:8080/tote123/tote123/272555
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="[ES] AXN White HD 1080P [DUAL AUDIO]" tvg-logo="http://cazadortv.xyz:8080/images/089eaea8a6c11ea6c2bcaea7893c286c.png" group-title="|ES| Cine & Series",[ES] AXN White HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/48
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="[ES] AXN White HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/089eaea8a6c11ea6c2bcaea7893c286c.png" group-title="|ES| Cine & Series",[ES] AXN White HD 720P
+http://213.133.99.154:8080/tote123/tote123/150487
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="[ES] AXN White SD" tvg-logo="http://cazadortv.xyz:8080/images/62f98086810ed0bf9e3004a9129a2828.png" group-title="|ES| Cine & Series",[ES] AXN White SD
+http://213.133.99.154:8080/tote123/tote123/272556
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="[ES] Fox HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/foxhd.png" group-title="|ES| Cine & Series",[ES] Fox HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/85
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="[ES] Fox HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/foxhd.png" group-title="|ES| Cine & Series",[ES] Fox HD 720P
+http://213.133.99.154:8080/tote123/tote123/150749
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="[ES] Fox SD" tvg-logo="http://panel.cipri.me/picons/Movistar/fox.png" group-title="|ES| Cine & Series",[ES] Fox SD
+http://213.133.99.154:8080/tote123/tote123/272718
+#EXTINF:-1 tvg-id="CosmopolitanTV.es" tvg-name="[ES] Cosmo HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/cosmohd.png" group-title="|ES| Cine & Series",[ES] Cosmo HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/69
+#EXTINF:-1 tvg-id="CosmopolitanTV.es" tvg-name="[ES] Cosmo HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/cosmohd.png" group-title="|ES| Cine & Series",[ES] Cosmo HD 720P
+http://213.133.99.154:8080/tote123/tote123/150488
+#EXTINF:-1 tvg-id="CosmopolitanTV.es" tvg-name="[ES] Cosmo SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/cosmo.png" group-title="|ES| Cine & Series",[ES] Cosmo SD
+http://213.133.99.154:8080/tote123/tote123/298685
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="[ES] M+ Clasicos HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/clasicos.png" group-title="|ES| Cine & Series",[ES] M+ Clasicos HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/299995
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="[ES] M+ Cine Ñ HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mcineespanol.png" group-title="|ES| Cine & Series",[ES] M+ Cine Ñ HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300387
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="[ES] M+ Cine Ñ SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/mcineespanol.png" group-title="|ES| Cine & Series",[ES] M+ Cine Ñ SD
+http://213.133.99.154:8080/tote123/tote123/108
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="[ES] Sundance TV HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/sundancetv.png" group-title="|ES| Cine & Series",[ES] Sundance TV HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300796
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="[ES] Sundance TV SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/sundancetv.png" group-title="|ES| Cine & Series",[ES] Sundance TV SD
+http://213.133.99.154:8080/tote123/tote123/20032
+#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="[ES] Paramount Network " tvg-logo="http://panel.cipri.me/picons/Esp-2/paramount.png" group-title="|ES| Cine & Series",[ES] Paramount Network 
+http://213.133.99.154:8080/tote123/tote123/174
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="[ES] A3 Series HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="|ES| TDT España",[ES] A3 Series HD 1080P
+http://213.133.99.154:8080/tote123/tote123/183782
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="[ES] A3 Series HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="|ES| TDT España",[ES] A3 Series HD 720P
+http://213.133.99.154:8080/tote123/tote123/300388
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="[ES] A3 Series SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="|ES| TDT España",[ES] A3 Series SD
+http://213.133.99.154:8080/tote123/tote123/300389
+#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="[ES] AMC HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/amchd.png" group-title="|ES| Cine & Series",[ES] AMC HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/41
+#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="[ES] AMC SD" tvg-logo="http://panel.cipri.me/picons/Movistar/amc.png" group-title="|ES| Cine & Series",[ES] AMC SD
+http://213.133.99.154:8080/tote123/tote123/150746
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="[ES] Calle 13 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/calle13hd.png" group-title="|ES| Cine & Series",[ES] Calle 13 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/55
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="[ES] Calle 13 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/calle13.png" group-title="|ES| Cine & Series",[ES] Calle 13 SD
+http://213.133.99.154:8080/tote123/tote123/150747
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="[ES] M+ Series HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/series.png" group-title="|ES| Cine & Series",[ES] M+ Series HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/159
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="[ES] M+ Series SD" tvg-logo="http://panel.cipri.me/picons/Movistar/series.png" group-title="|ES| Cine & Series",[ES] M+ Series SD
+http://213.133.99.154:8080/tote123/tote123/150745
+#EXTINF:-1 tvg-id="MovistarSeries2.es" tvg-name="[ES] M+ Series 2 HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Movistar/series2.png" group-title="|ES| Cine & Series",[ES] M+ Series 2 HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/140
+#EXTINF:-1 tvg-id="MovistarSeries2.es" tvg-name="[ES] M+ Series 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/series2.png" group-title="|ES| Cine & Series",[ES] M+ Series 2 SD
+http://213.133.99.154:8080/tote123/tote123/298759
+#EXTINF:-1 tvg-id="MovistarFest.es" tvg-name="[ES] M+ Fest FHD" tvg-logo="http://panel.cipri.me/picons/Esp-2/mfest.png" group-title="|ES| Entretenimiento",[ES] M+ Fest FHD
+http://213.133.99.154:8080/tote123/tote123/155688
+#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="[ES] Comedy Central HD 1080P [DUAL AUDIO]" tvg-logo="http://panel.cipri.me/picons/Esp-2/comedycentral.png" group-title="|ES| Cine & Series",[ES] Comedy Central HD 1080P [DUAL AUDIO]
+http://213.133.99.154:8080/tote123/tote123/67
+#EXTINF:-1 tvg-id="TreceTV.es" tvg-name="[ES] Trece TV" tvg-logo="" group-title="|ES| Entretenimiento",[ES] Trece TV
+http://213.133.99.154:8080/tote123/tote123/181798
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="[ES] TEN TV" tvg-logo="" group-title="|ES| Entretenimiento",[ES] TEN TV
+http://213.133.99.154:8080/tote123/tote123/182649
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="[ES] Canal Cocina HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/canalcocina.png" group-title="|ES| Entretenimiento",[ES] Canal Cocina HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301262
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="[ES] Canal Cocina SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/canalcocina.png" group-title="|ES| Entretenimiento",[ES] Canal Cocina SD
+http://213.133.99.154:8080/tote123/tote123/56
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="[ES] Be Mad HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/bemad.png" group-title="|ES| Entretenimiento",[ES] Be Mad HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300793
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="[ES] Be Mad HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/bemad.png" group-title="|ES| Entretenimiento",[ES] Be Mad HD 720P
+http://213.133.99.154:8080/tote123/tote123/151798
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="[ES] Be Mad SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/bemad.png" group-title="|ES| Entretenimiento",[ES] Be Mad SD
+http://213.133.99.154:8080/tote123/tote123/51
+#EXTINF:-1 tvg-id="LaResistencia.es" tvg-name="[ES] La Resistencia HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/La_Resistencia.png" group-title="|ES| Entretenimiento",[ES] La Resistencia HD 720P
+http://213.133.99.154:8080/tote123/tote123/300794
+#EXTINF:-1 tvg-id="LaResistencia.es" tvg-name="[ES] La Resistencia SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/La_Resistencia.png" group-title="|ES| Entretenimiento",[ES] La Resistencia SD
+http://213.133.99.154:8080/tote123/tote123/300795
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="[ES] AMC Crime SD" tvg-logo="" group-title="|ES| Entretenimiento",[ES] AMC Crime SD
+http://213.133.99.154:8080/tote123/tote123/70
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="[ES] Divinity SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/d..png" group-title="|ES| Entretenimiento",[ES] Divinity SD
+http://213.133.99.154:8080/tote123/tote123/78
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="[ES] Energy" tvg-logo="http://panel.cipri.me/picons/Esp-2/energy.png" group-title="|ES| Entretenimiento",[ES] Energy
+http://213.133.99.154:8080/tote123/tote123/79
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="[ES] Neox HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/neox.png" group-title="|ES| Entretenimiento",[ES] Neox HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300791
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="[ES] Neox SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/neox.png" group-title="|ES| Entretenimiento",[ES] Neox SD
+http://213.133.99.154:8080/tote123/tote123/20033
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="[ES] Nova SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/nova.png" group-title="|ES| Entretenimiento",[ES] Nova SD
+http://213.133.99.154:8080/tote123/tote123/173
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="[ES] Toros HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/toros.png" group-title="|ES| Entretenimiento",[ES] Toros HD 1080P
+http://213.133.99.154:8080/tote123/tote123/188
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="[ES] Toros HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/toros.png" group-title="|ES| Entretenimiento",[ES] Toros HD 720P
+http://213.133.99.154:8080/tote123/tote123/298760
+#EXTINF:-1 tvg-id="DreamWorksChannelSpain.es" tvg-name="[ES] DreamWorks HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/dreamworks.png" group-title="|ES| Infantil",[ES] DreamWorks HD 1080P
+http://213.133.99.154:8080/tote123/tote123/61406
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="[ES] Baby TV" tvg-logo="http://panel.cipri.me/picons/Esp-2/babytv.png" group-title="|ES| Infantil",[ES] Baby TV
+http://213.133.99.154:8080/tote123/tote123/49
+#EXTINF:-1 tvg-id="boing.es" tvg-name="[ES] Boing" tvg-logo="http://panel.cipri.me/picons/Esp-2/boing.png" group-title="|ES| Infantil",[ES] Boing
+http://213.133.99.154:8080/tote123/tote123/53
+#EXTINF:-1 tvg-id="CanalPandaSpain.es" tvg-name="[ES] Canal Panda" tvg-logo="http://panel.cipri.me/picons/Esp-2/canalpanda.png" group-title="|ES| Infantil",[ES] Canal Panda
+http://213.133.99.154:8080/tote123/tote123/60
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="[ES] Disney Channel HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/disneychannelhd.png" group-title="|ES| Infantil",[ES] Disney Channel HD 1080P
+http://213.133.99.154:8080/tote123/tote123/74
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="[ES] Disney Channel SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/disneychannel.png" group-title="|ES| Infantil",[ES] Disney Channel SD
+http://213.133.99.154:8080/tote123/tote123/75
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="[ES] Nickelodeon HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/nickelodeonhd.png" group-title="|ES| Infantil",[ES] Nickelodeon HD 1080P
+http://213.133.99.154:8080/tote123/tote123/172
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="[ES] Nickelodeon SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/nickelodeon.png" group-title="|ES| Infantil",[ES] Nickelodeon SD
+http://213.133.99.154:8080/tote123/tote123/171
+#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="[ES] Disney JR" tvg-logo="http://panel.cipri.me/picons/Esp-2/disneyjunior.png" group-title="|ES| Infantil",[ES] Disney JR
+http://213.133.99.154:8080/tote123/tote123/76
+#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="[ES] Nick JR" tvg-logo="http://panel.cipri.me/picons/Esp-2/nickjr..png" group-title="|ES| Infantil",[ES] Nick JR
+http://213.133.99.154:8080/tote123/tote123/170
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="[ES] IBERALIA HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/iberaliatv.png" group-title="|ES| Documentales",[ES] IBERALIA HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301022
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="|ES| Documentales",[ES] IBERALIA 100% PESCA HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301204
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="[ES] Nat Geo HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/natgeo.png" group-title="|ES| Documentales",[ES] Nat Geo HD 1080P
+http://213.133.99.154:8080/tote123/tote123/165
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="[ES] Nat Geo HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/1e01e63e3d890408725310cd6c01960a.png" group-title="|ES| Documentales",[ES] Nat Geo HD 720P
+http://213.133.99.154:8080/tote123/tote123/151445
+#EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="[ES] NAT Geo SD " tvg-logo="http://cazadortv.xyz:8080/images/1e01e63e3d890408725310cd6c01960a.png" group-title="|ES| Documentales",[ES] NAT Geo SD 
+http://213.133.99.154:8080/tote123/tote123/272578
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="[ES] Nat Geo Wild HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/natgeowildhd.png" group-title="|ES| Documentales",[ES] Nat Geo Wild HD 1080P
+http://213.133.99.154:8080/tote123/tote123/169
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="[ES] Nat Geo Wild HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/09f3e55d09d705c6b987fa46c2989d69.png" group-title="|ES| Documentales",[ES] Nat Geo Wild HD 720P
+http://213.133.99.154:8080/tote123/tote123/151401
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="[ES] Nat Geo Wild SD" tvg-logo="http://cazadortv.xyz:8080/images/757a717ee2ade661c665276734c83b16.png" group-title="|ES| Documentales",[ES] Nat Geo Wild SD
+http://213.133.99.154:8080/tote123/tote123/272577
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="[ES] Caza y Pesca HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/cazaypesca.png" group-title="|ES| Documentales",[ES] Caza y Pesca HD 1080P
+http://213.133.99.154:8080/tote123/tote123/63
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="[ES] Caza y Pesca HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/cazaypesca.png" group-title="|ES| Documentales",[ES] Caza y Pesca HD 720P
+http://213.133.99.154:8080/tote123/tote123/299657
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="[ES] Caza y Pesca SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/cazaypesca.png" group-title="|ES| Documentales",[ES] Caza y Pesca SD
+http://213.133.99.154:8080/tote123/tote123/151453
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="[ES] Canal De Casa SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/canaldecasa.png" group-title="|ES| Documentales",[ES] Canal De Casa SD
+http://213.133.99.154:8080/tote123/tote123/57
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="[ES] Canal Odisea SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/odisea.png" group-title="|ES| Documentales",[ES] Canal Odisea SD
+http://213.133.99.154:8080/tote123/tote123/58
+#EXTINF:-1 tvg-id="DMAXSpain.es" tvg-name="[ES] DMAX  HD 1080" tvg-logo="" group-title="|ES| Documentales",[ES] DMAX  HD 1080
+http://213.133.99.154:8080/tote123/tote123/301021
+#EXTINF:-1 tvg-id="DiscoveryChannelSpain.es" tvg-name="[ES] Discovery" tvg-logo="http://panel.cipri.me/picons/Esp-2/discovery.png" group-title="|ES| Documentales",[ES] Discovery
+http://213.133.99.154:8080/tote123/tote123/73
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="[ES] Historia SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/historia.png" group-title="|ES| Documentales",[ES] Historia SD
+http://213.133.99.154:8080/tote123/tote123/90
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="[ES] Iberalia TV SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/iberaliatv.png" group-title="|ES| Documentales",[ES] Iberalia TV SD
+http://213.133.99.154:8080/tote123/tote123/93
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Kronehit" tvg-logo="https://graph.facebook.com/kronehit/picture?width=320&height=320" group-title="|ES| Musica",[ES] Kronehit
+http://213.133.99.154:8080/tote123/tote123/3838
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Music Top" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=320&height=320" group-title="|ES| Musica",[ES] Music Top
+http://213.133.99.154:8080/tote123/tote123/3840
+#EXTINF:-1 tvg-id="" tvg-name="[ES] 30A Music" tvg-logo="https://graph.facebook.com/30atv/picture?width=320&height=320" group-title="|ES| Musica",[ES] 30A Music
+http://213.133.99.154:8080/tote123/tote123/3843
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DJing Karaoke" tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="|ES| Musica",[ES] DJing Karaoke
+http://213.133.99.154:8080/tote123/tote123/3846
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="[ES] MTV ESPANA" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-es-logos/master/TV/Simple200/MTV.png" group-title="|ES| Musica",[ES] MTV ESPANA
+http://213.133.99.154:8080/tote123/tote123/162
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial HD 1080P ( Official )" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial HD 1080P ( Official )
+http://213.133.99.154:8080/tote123/tote123/340783
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial HD 1080P  ( Opcion 2 )" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial HD 1080P  ( Opcion 2 )
+http://213.133.99.154:8080/tote123/tote123/340773
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial HD 720P
+http://213.133.99.154:8080/tote123/tote123/340774
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial SD
+http://213.133.99.154:8080/tote123/tote123/340775
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial 2 HD 1080P ( Official )" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial 2 HD 1080P ( Official )
+http://213.133.99.154:8080/tote123/tote123/340784
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial 2 HD 1080P ( Opcion 2 )" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial 2 HD 1080P ( Opcion 2 )
+http://213.133.99.154:8080/tote123/tote123/340776
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/340777
+#EXTINF:-1 tvg-id="" tvg-name="[ES] GOL Mundial 2 SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/golMundial.png" group-title="| Mundial Qatar 2022 |",[ES] GOL Mundial 2 SD
+http://213.133.99.154:8080/tote123/tote123/340778
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="[ES] Dazn Laliga HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga.png" group-title="|ES| DAZN España",[ES] Dazn Laliga HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300733
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Dazn Laliga HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga.png" group-title="|ES| DAZN España",[ES] Dazn Laliga HD 720P
+http://213.133.99.154:8080/tote123/tote123/300734
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Dazn Laliga SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga.png" group-title="|ES| DAZN España",[ES] Dazn Laliga SD
+http://213.133.99.154:8080/tote123/tote123/300735
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Dazn Laliga 2 FHD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga2.png" group-title="|ES| DAZN España",[ES] Dazn Laliga 2 FHD 1080P
+http://213.133.99.154:8080/tote123/tote123/300736
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Dazn Laliga 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga2.png" group-title="|ES| DAZN España",[ES] Dazn Laliga 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/300737
+#EXTINF:-1 tvg-id="" tvg-name="[ES] dazn Laliga 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/daznlaliga2.png" group-title="|ES| DAZN España",[ES] dazn Laliga 2 SD
+http://213.133.99.154:8080/tote123/tote123/300738
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="[ES] DAZN F1 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/daznf1.png" group-title="|ES| DAZN España",[ES] DAZN F1 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/63951
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="[ES] DAZN F1 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/daznf1.png" group-title="|ES| DAZN España",[ES] DAZN F1 HD 720P
+http://213.133.99.154:8080/tote123/tote123/66743
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="[ES] DAZN F1 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/daznf1.png" group-title="|ES| DAZN España",[ES] DAZN F1 SD
+http://213.133.99.154:8080/tote123/tote123/63952
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="[ES] DAZN 1 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn1.png" group-title="|ES| DAZN España",[ES] DAZN 1 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/63939
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="[ES] DAZN 1 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn1.png" group-title="|ES| DAZN España",[ES] DAZN 1 HD 720P
+http://213.133.99.154:8080/tote123/tote123/272582
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-name="[ES] DAZN 1 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn1.png" group-title="|ES| DAZN España",[ES] DAZN 1 SD
+http://213.133.99.154:8080/tote123/tote123/63940
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="[ES] DAZN 2 HD 1080P" tvg-logo="http://iptv.spaniptv.com:8080/images/64837201c87da04f89419ce68bddd367.png" group-title="|ES| DAZN España",[ES] DAZN 2 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/63941
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="[ES] DAZN 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn2.png" group-title="|ES| DAZN España",[ES] DAZN 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/66740
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="[ES] DAZN  2 SD" tvg-logo="http://iptv.spaniptv.com:8080/images/64837201c87da04f89419ce68bddd367.png" group-title="|ES| DAZN España",[ES] DAZN  2 SD
+http://213.133.99.154:8080/tote123/tote123/63942
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-name="[ES] DAZN 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn2.png" group-title="|ES| DAZN España",[ES] DAZN 2 SD
+http://213.133.99.154:8080/tote123/tote123/72450
+#EXTINF:-1 tvg-id="DAZN3Spain.es" tvg-name="[ES] DAZN 3 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/dazn3.png" group-title="|ES| DAZN España",[ES] DAZN 3 SD
+http://213.133.99.154:8080/tote123/tote123/63944
+#EXTINF:-1 tvg-id="DAZN4Spain.es" tvg-name="[ES] DAZN 4 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/dazn4.png" group-title="|ES| DAZN España",[ES] DAZN 4 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301136
+#EXTINF:-1 tvg-id="DAZN4Spain.es" tvg-name="[ES] DAZN 4 SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/dazn4.png" group-title="|ES| DAZN España",[ES] DAZN 4 SD
+http://213.133.99.154:8080/tote123/tote123/300853
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="[ES] M+ LaLiga HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laliga.png" group-title="|ES| Fútbol",[ES] M+ LaLiga HD 1080P
+http://213.133.99.154:8080/tote123/tote123/262449
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="[ES] M+ LaLiga HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laliga.png" group-title="|ES| Fútbol",[ES] M+ LaLiga HD 720P
+http://213.133.99.154:8080/tote123/tote123/39166
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="[ES] M+ LaLiga SD" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga.png" group-title="|ES| Fútbol",[ES] M+ LaLiga SD
+http://213.133.99.154:8080/tote123/tote123/272579
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="[ES] M+ LaLiga 2 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laliga2.png" group-title="|ES| Fútbol",[ES] M+ LaLiga 2 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/339549
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="[ES] M+ LaLiga 2 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laliga2.png" group-title="|ES| Fútbol",[ES] M+ LaLiga 2 HD 720P
+http://213.133.99.154:8080/tote123/tote123/339550
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="[ES] M+ LaLiga 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laliga2.png" group-title="|ES| Fútbol",[ES] M+ LaLiga 2 SD
+http://213.133.99.154:8080/tote123/tote123/339551
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="[ES] Laliga TV Bar HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/laligatvbar.png" group-title="|ES| Fútbol",[ES] Laliga TV Bar HD 1080P
+http://213.133.99.154:8080/tote123/tote123/300786
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="[ES] Laliga TV Bar HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/laligatvbar.png" group-title="|ES| Fútbol",[ES] Laliga TV Bar HD 720P
+http://213.133.99.154:8080/tote123/tote123/300787
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="[ES] Laliga SmartBank HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laligasmartbanktv.png" group-title="|ES| Fútbol",[ES] Laliga SmartBank HD 1080P
+http://213.133.99.154:8080/tote123/tote123/63945
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="[ES] Laliga SmartBank HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laligasmartbanktv.png" group-title="|ES| Fútbol",[ES] Laliga SmartBank HD 720P
+http://213.133.99.154:8080/tote123/tote123/66742
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="[ES] Laliga SmartBank SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laligasmartbanktv.png" group-title="|ES| Fútbol",[ES] Laliga SmartBank SD
+http://213.133.99.154:8080/tote123/tote123/63946
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LaLiga SmartBank 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laligasmartbanktv2.png" group-title="|ES| Fútbol",[ES] LaLiga SmartBank 2 SD
+http://213.133.99.154:8080/tote123/tote123/300790
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LaLiga SmartBank 3 SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/laligasmartbank3.png" group-title="|ES| Fútbol",[ES] LaLiga SmartBank 3 SD
+http://213.133.99.154:8080/tote123/tote123/334226
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="[ES] M+ LCampeones HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones.png" group-title="|ES| Fútbol",[ES] M+ LCampeones HD 1080P
+http://213.133.99.154:8080/tote123/tote123/299679
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="[ES] M+ LCampeones HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones.png" group-title="|ES| Fútbol",[ES] M+ LCampeones HD 720P
+http://213.133.99.154:8080/tote123/tote123/69521
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="[ES] M+ LCampeones SD" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones.png" group-title="|ES| Fútbol",[ES] M+ LCampeones SD
+http://213.133.99.154:8080/tote123/tote123/272558
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="[ES] M+ LCampeones 2 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones2.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 2 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/39109
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="[ES] M+ LCampeones 2 HD" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones2.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 2 HD
+http://213.133.99.154:8080/tote123/tote123/272592
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="[ES] M+ LCampeones 2 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones2.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 2 SD
+http://213.133.99.154:8080/tote123/tote123/272593
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="[ES] M+ Lcampeones 3 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones3.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones 3 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301207
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="[ES] M+ Lcampeones 3 HD 720P" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones3.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones 3 HD 720P
+http://213.133.99.154:8080/tote123/tote123/301208
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones3.es" tvg-name="[ES] M+ LCampeones 3 SD" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones3.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 3 SD
+http://213.133.99.154:8080/tote123/tote123/151
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ LCampeones 4 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones4.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 4 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/152
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ LCampeones 5 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones5.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 5 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/153
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ LCampeones 6 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones6.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 6 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/154
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="[ES] M+ LCampeones 7 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones7.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 7 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/155
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="[ES] M+ LCampeones 8 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/ligadecampeones8.png" group-title="|ES| Fútbol",[ES] M+ LCampeones 8 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/156
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="[ES] M+ Lcampeones  9 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar2022/ligadecampeones9.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones  9 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/301254
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ Lcampeones  10 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar2022/ligadecampeones10.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones  10 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/301255
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ Lcampeones  11 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar2022/ligadecampeones11.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones  11 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/301256
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ Lcampeones  12 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar2022/ligadecampeones12.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones  12 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/301257
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M+ Lcampeones  13 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar2022/ligadecampeones13.png" group-title="|ES| Fútbol",[ES] M+ Lcampeones  13 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/301258
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="[ES] #Vamos HD 1080P" tvg-logo="http://cazadortv.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| Otros Deportes",[ES] #Vamos HD 1080P
+http://213.133.99.154:8080/tote123/tote123/232617
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="[ES] #Vamos HD 720P" tvg-logo="http://cazadortv.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| Otros Deportes",[ES] #Vamos HD 720P
+http://213.133.99.154:8080/tote123/tote123/272580
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="[ES] #Vamos SD" tvg-logo="http://cazadortv.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| Otros Deportes",[ES] #Vamos SD
+http://213.133.99.154:8080/tote123/tote123/272581
+#EXTINF:-1 tvg-id="" tvg-name="[ES] ELLAS #V HD 1080P" tvg-logo="" group-title="|ES| Otros Deportes",[ES] ELLAS #V HD 1080P
+http://213.133.99.154:8080/tote123/tote123/299659
+#EXTINF:-1 tvg-id="" tvg-name="[ES] ELLAS #V SD " tvg-logo="" group-title="|ES| Otros Deportes",[ES] ELLAS #V SD 
+http://213.133.99.154:8080/tote123/tote123/299660
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="[ES] M+ Deportes HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes HD 1080P
+http://213.133.99.154:8080/tote123/tote123/118
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="[ES] M+ Deportes HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes HD 720P
+http://213.133.99.154:8080/tote123/tote123/298827
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="[ES] M+ Deportes SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes SD
+http://213.133.99.154:8080/tote123/tote123/168980
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="[ES] M+ Deportes 1 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes1.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes 1 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/111
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="[ES] M+ Deportes 1 HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes1.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes 1 HD 720P
+http://213.133.99.154:8080/tote123/tote123/300384
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="[ES] M+ DEPORTES 1 SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/mdeportes1.png" group-title="|ES| Otros Deportes",[ES] M+ DEPORTES 1 SD
+http://213.133.99.154:8080/tote123/tote123/168981
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="[ES] M+ Deportes 2 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/bb2e4d1387e0d1a57475d614dddf85a8.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes 2 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/112
+#EXTINF:-1 tvg-id="MovistarDeportes3.es" tvg-name="[ES] M+ Deportes 3 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/4a150af81bec93fbe9a1ed2e608e67d3.png" group-title="|ES| Otros Deportes",[ES] M+ Deportes 3 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/113
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTES 4 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/f707e3ef48f2f47b98c425fa0f120dd3.png" group-title="|ES| Otros Deportes",[ES] M. DEPORTES 4 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/114
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTES 5 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/83b14f78e7e411127ba3cc8d8751edd8.png" group-title="|ES| Otros Deportes",[ES] M. DEPORTES 5 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/115
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTES 6 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/402dcf1ba1b5d8ea416dcf847911087a.png" group-title="|ES| Otros Deportes",[ES] M. DEPORTES 6 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/116
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. Deportes 7 ( SOLO EVENTOS )" tvg-logo="http://iptv.spaniptv.com:8080/images/3ab95c0fce0a8d16b867bea83c4f0da5.png" group-title="|ES| Otros Deportes",[ES] M. Deportes 7 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/117
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="[ES] M+ GOLF HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mgolf.png" group-title="|ES| Otros Deportes",[ES] M+ GOLF HD 1080P
+http://213.133.99.154:8080/tote123/tote123/124
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="[ES] M+ GOLF HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/mgolf.png" group-title="|ES| Otros Deportes",[ES] M+ GOLF HD 720P
+http://213.133.99.154:8080/tote123/tote123/298828
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="[ES] M+ GOLF SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/mgolf.png" group-title="|ES| Otros Deportes",[ES] M+ GOLF SD
+http://213.133.99.154:8080/tote123/tote123/123
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="[ES] EUROSPORT 1 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Esp-2/eurosport1.png" group-title="|ES| Otros Deportes",[ES] EUROSPORT 1 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/82
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="[ES] EUROSPORT 1 HD 720P" tvg-logo="http://panel.cipri.me/picons/Esp-2/eurosport1.png" group-title="|ES| Otros Deportes",[ES] EUROSPORT 1 HD 720P
+http://213.133.99.154:8080/tote123/tote123/298826
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="[ES] EUROSPORT 1 SD" tvg-logo="http://panel.cipri.me/picons/Esp-2/eurosport1.png" group-title="|ES| Otros Deportes",[ES] EUROSPORT 1 SD
+http://213.133.99.154:8080/tote123/tote123/168979
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="[ES] EUROSPORT 2" tvg-logo="http://panel.cipri.me/picons/Esp-2/eurosport2.png" group-title="|ES| Otros Deportes",[ES] EUROSPORT 2
+http://213.133.99.154:8080/tote123/tote123/81
+#EXTINF:-1 tvg-id="MovistarLaLiga3.es" tvg-name="[ES] M. LaLiga 3" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga3.png" group-title="|ES| Fútbol",[ES] M. LaLiga 3
+http://213.133.99.154:8080/tote123/tote123/131
+#EXTINF:-1 tvg-id="MovistarLaLiga3.es" tvg-name="[ES] M. LaLiga 3 HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga3.png" group-title="|ES| Fútbol",[ES] M. LaLiga 3 HD 1080P
+http://213.133.99.154:8080/tote123/tote123/132
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="[ES] M. LaLiga 4 (SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga4.png" group-title="|ES| Fútbol",[ES] M. LaLiga 4 (SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/133
+#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="[ES] M. LaLiga 5 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga4.png" group-title="|ES| Fútbol",[ES] M. LaLiga 5 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/134
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="[ES] M. LaLiga 6 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga6.png" group-title="|ES| Fútbol",[ES] M. LaLiga 6 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/135
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="[ES] M. LaLiga 7 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga7.png" group-title="|ES| Fútbol",[ES] M. LaLiga 7 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/136
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="[ES] M+ LaLiga 8 ( SOLO EVENTOS )" tvg-logo="http://panel.cipri.me/picons/Movistar/laliga8.png" group-title="|ES| Fútbol",[ES] M+ LaLiga 8 ( SOLO EVENTOS )
+http://213.133.99.154:8080/tote123/tote123/33264
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="[ES] BARCA TV SD" tvg-logo="http://panel.cipri.me/picons/Movistar2022/barcatv.png" group-title="|ES| Otros Deportes",[ES] BARCA TV SD
+http://213.133.99.154:8080/tote123/tote123/50
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="[.ES] GOL Play TV HD 1080P" tvg-logo="http://panel.cipri.me/picons/Movistar2022/golplaytv.png" group-title="|ES| Otros Deportes",[.ES] GOL Play TV HD 1080P
+http://213.133.99.154:8080/tote123/tote123/301260
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="[ES] GOL" tvg-logo="http://panel.cipri.me/picons/Esp-2/gol.png" group-title="|ES| Otros Deportes",[ES] GOL
+http://213.133.99.154:8080/tote123/tote123/89
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="[ES] FDF" tvg-logo="http://panel.cipri.me/picons/Esp-2/fdf.png" group-title="|ES| Entretenimiento",[ES] FDF
+http://213.133.99.154:8080/tote123/tote123/83
+#EXTINF:-1 tvg-id="" tvg-name="[ES] La Mega Mundial" tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="|ES| Musica",[ES] La Mega Mundial
+http://213.133.99.154:8080/tote123/tote123/3833
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Portalfoxmix" tvg-logo="" group-title="|ES| Musica",[ES] Portalfoxmix
+http://213.133.99.154:8080/tote123/tote123/3834
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| METAL CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| METAL CHOICE
+http://213.133.99.154:8080/tote123/tote123/37625
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| ALTERNATIVA MUSIC" tvg-logo="" group-title="|ES| Musica",MUSIC| ALTERNATIVA MUSIC
+http://213.133.99.154:8080/tote123/tote123/37626
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| ROCK CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| ROCK CHOICE
+http://213.133.99.154:8080/tote123/tote123/37627
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| KIDZ ONLY CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| KIDZ ONLY CHOICE
+http://213.133.99.154:8080/tote123/tote123/37628
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TODDLER MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| TODDLER MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37629
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| COUNTRY MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| COUNTRY MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37631
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| R&B SOUL MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| R&B SOUL MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37632
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| POP LATINO MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| POP LATINO MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37633
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TROWBACK JAZ CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| TROWBACK JAZ CHOICE
+http://213.133.99.154:8080/tote123/tote123/37634
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| RAP MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| RAP MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37635
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| MEXICANA CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| MEXICANA CHOICE
+http://213.133.99.154:8080/tote123/tote123/37636
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TROPICALES CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| TROPICALES CHOICE
+http://213.133.99.154:8080/tote123/tote123/37637
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| URBANA MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| URBANA MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37638
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| HIP HOP & R&B CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| HIP HOP & R&B CHOICE
+http://213.133.99.154:8080/tote123/tote123/37639
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| Y2K MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| Y2K MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37641
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| DANCE MUSIC CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| DANCE MUSIC CHOICE
+http://213.133.99.154:8080/tote123/tote123/37642
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| POP & COUNTRY CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| POP & COUNTRY CHOICE
+http://213.133.99.154:8080/tote123/tote123/37643
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| POP HITS CHOICE" tvg-logo="" group-title="|ES| Musica",MUSIC| POP HITS CHOICE
+http://213.133.99.154:8080/tote123/tote123/3764
+#EXTINF:-1 tvg-id="" tvg-name="Copa Del Rey-01 21H00 : CD RINCÓN Vs. ESPANYOL" tvg-logo="https://www.pngitem.com/pimgs/m/285-2855771_copa-del-rey-de-ftbol-copa-del-rey.png" group-title="Fixtures",Copa Del Rey-01 21H00 : CD RINCÓN Vs. ESPANYOL
+http://213.133.99.154:8080/tote123/tote123/340760
+#EXTINF:-1 tvg-id="" tvg-name="Copa Del Rey-02 21H00 : CD SANTA AMALIA Vs. VILLARREAL" tvg-logo="https://www.pngitem.com/pimgs/m/285-2855771_copa-del-rey-de-ftbol-copa-del-rey.png" group-title="Fixtures",Copa Del Rey-02 21H00 : CD SANTA AMALIA Vs. VILLARREAL
+http://213.133.99.154:8080/tote123/tote123/340761
+#EXTINF:-1 tvg-id="" tvg-name="Copa Del Rey-03 22H00 : SD ALMAZÁN Vs. ATLÉTICO MADRID" tvg-logo="https://www.pngitem.com/pimgs/m/285-2855771_copa-del-rey-de-ftbol-copa-del-rey.png" group-title="Fixtures",Copa Del Rey-03 22H00 : SD ALMAZÁN Vs. ATLÉTICO MADRID
+http://213.133.99.154:8080/tote123/tote123/340762
+
